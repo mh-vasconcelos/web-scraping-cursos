@@ -22,8 +22,8 @@ Um script que define conceitos iniciais do web scraping e um dicionário de vari
 ### `tratamento.ipynb`
 Um Jupyter Notebook onde os dados extraídos são tratados e analisados.
 
-### cursos.csv
+### `cursos.csv`
 O DataFrame inicial bruto, sem ajustes
 
-### cursos_ajustado.csv
+### `cursos_ajustado.csv`
 O DataFrame depois de passar pelo tratamento no notebook Jupyter
